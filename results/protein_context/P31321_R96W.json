@@ -1,0 +1,111 @@
+{
+  "uniprot_accession": "P31321",
+  "protein_length": 381,
+  "substitution": "R96W",
+  "alphafold_model": "AF-P31321-F1-model_v6.pdb",
+  "uniprot_features_containing_residue": [
+    {
+      "type": "Region",
+      "start": 2,
+      "end": 136,
+      "description": "Dimerization and phosphorylation"
+    },
+    {
+      "type": "Region",
+      "start": 67,
+      "end": 98,
+      "description": "Disordered"
+    },
+    {
+      "type": "Motif",
+      "start": 96,
+      "end": 100,
+      "description": "Pseudophosphorylation motif"
+    }
+  ],
+  "sequence_context": "PPNPVVKARRRRGGVSAEVYT",
+  "plddt": 84.06,
+  "relative_solvent_accessibility": 0.9,
+  "alphamissense": {
+    "score": 0.8336,
+    "class": "LPath"
+  },
+  "alphamissense_all_substitutions_at_position": {
+    "R96A": {
+      "score": 0.9897,
+      "class": "LPath"
+    },
+    "R96C": {
+      "score": 0.8844,
+      "class": "LPath"
+    },
+    "R96D": {
+      "score": 0.9968,
+      "class": "LPath"
+    },
+    "R96E": {
+      "score": 0.9863,
+      "class": "LPath"
+    },
+    "R96F": {
+      "score": 0.9849,
+      "class": "LPath"
+    },
+    "R96G": {
+      "score": 0.9606,
+      "class": "LPath"
+    },
+    "R96H": {
+      "score": 0.7748,
+      "class": "LPath"
+    },
+    "R96I": {
+      "score": 0.9786,
+      "class": "LPath"
+    },
+    "R96K": {
+      "score": 0.7755,
+      "class": "LPath"
+    },
+    "R96L": {
+      "score": 0.9433,
+      "class": "LPath"
+    },
+    "R96M": {
+      "score": 0.9882,
+      "class": "LPath"
+    },
+    "R96N": {
+      "score": 0.9933,
+      "class": "LPath"
+    },
+    "R96P": {
+      "score": 0.9587,
+      "class": "LPath"
+    },
+    "R96Q": {
+      "score": 0.8084,
+      "class": "LPath"
+    },
+    "R96S": {
+      "score": 0.9925,
+      "class": "LPath"
+    },
+    "R96T": {
+      "score": 0.9916,
+      "class": "LPath"
+    },
+    "R96V": {
+      "score": 0.9789,
+      "class": "LPath"
+    },
+    "R96W": {
+      "score": 0.8336,
+      "class": "LPath"
+    },
+    "R96Y": {
+      "score": 0.9552,
+      "class": "LPath"
+    }
+  }
+}

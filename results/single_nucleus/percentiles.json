@@ -1,0 +1,68 @@
+{
+  "dopaminergic": {
+    "genes_detected": 13744,
+    "EFHC1": {
+      "nCPM": 33.1,
+      "percentile_among_detected_genes": 59.7
+    },
+    "CACNA1E": {
+      "nCPM": 337.7,
+      "percentile_among_detected_genes": 97.0
+    }
+  },
+  "thalamic projection neurons": {
+    "genes_detected": 13670,
+    "EFHC1": {
+      "nCPM": 43.1,
+      "percentile_among_detected_genes": 65.1
+    },
+    "CACNA1E": {
+      "nCPM": 375.4,
+      "percentile_among_detected_genes": 96.8
+    }
+  },
+  "mge derived interneuron": {
+    "genes_detected": 13648,
+    "EFHC1": {
+      "nCPM": 39.1,
+      "percentile_among_detected_genes": 62.8
+    },
+    "CACNA1E": {
+      "nCPM": 208.8,
+      "percentile_among_detected_genes": 93.1
+    }
+  },
+  "midbrain derived inhibitory neurons": {
+    "genes_detected": 13272,
+    "EFHC1": {
+      "nCPM": 37.5,
+      "percentile_among_detected_genes": 62.1
+    },
+    "CACNA1E": {
+      "nCPM": 280.8,
+      "percentile_among_detected_genes": 95.1
+    }
+  },
+  "forebrain excitatory": {
+    "genes_detected": 13867,
+    "EFHC1": {
+      "nCPM": 41.8,
+      "percentile_among_detected_genes": 66.2
+    },
+    "CACNA1E": {
+      "nCPM": 865.2,
+      "percentile_among_detected_genes": 98.9
+    }
+  },
+  "ependymal cells": {
+    "genes_detected": 14028,
+    "EFHC1": {
+      "nCPM": 486.0,
+      "percentile_among_detected_genes": 98.1
+    },
+    "CACNA1E": {
+      "nCPM": 34.7,
+      "percentile_among_detected_genes": 61.4
+    }
+  }
+}

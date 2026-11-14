@@ -1,0 +1,21 @@
+gene	decision	reason_category	main_associated_disorders	reason
+ALG13	retained	unresolved candidate	ALG13-related developmental and epileptic encephalopathy (X-linked)	established epilepsy gene; variant outside the catalytic domain of the long isoform; associated disorder usually severe
+ASXL2	retained	unresolved candidate	Shashi-Pena syndrome (AD)	seizures and developmental problems in the syndrome; known variants de novo truncating; characteristic features not documented
+KDM5A	retained	unresolved candidate	KDM5A-related neurodevelopmental disorder (AD/AR)	very rare; second base of exon; reported phenotypes dominated by autism and language delay
+PRKAR1B	retained	unresolved candidate	Marbach-Schaaf neurodevelopmental syndrome (AD)	ADHD and seizures occur in the syndrome; milder cognitive forms reported; developmental/speech delay and autism not documented; parental testing pending
+TCF20	retained	unresolved candidate	TCF20-related neurodevelopmental disorder (AD)	attention problems and seizures reported in some patients; known variants mostly truncating; single-residue in-frame deletion
+TRIM8	retained	unresolved candidate	TRIM8-related neurodevelopmental disorder with kidney disease (AD)	epilepsy part of the syndrome; known variants truncate the C-terminus; population frequency unavailable
+ATP2B3	not prioritized	inheritance mismatch	X-linked spinocerebellar ataxia type 1 (X-linked recessive)	X-linked recessive ataxia not expected in a heterozygous female without documented ataxia
+CDH23	not prioritized	phenotype mismatch: auditory	Usher syndrome type 1D and nonsyndromic deafness (AR); pituitary adenoma (AD)	recessive disorders are auditory/retinal; dominant association is a tumor predisposition; no matching features
+JAK2	not prioritized	phenotype mismatch: hematological	myeloproliferative neoplasms; thrombocythemia (somatic/AD)	associated disorders are hematological; no matching features in the proband
+RPL18	not prioritized	phenotype mismatch: hematological	Diamond-Blackfan anemia (AD)	associated disorder is hematological; no matching features in the proband
+ATP5F1B	not prioritized	phenotype mismatch: movement disorder	early-onset isolated dystonia (AD)	associated disorder is dystonia, not documented in the proband
+GNE	not prioritized	phenotype mismatch: muscular	GNE myopathy (AR); sialuria (AD)	dominant disorder is sialuria, myopathy is recessive; no matching features
+RYR1	not prioritized	phenotype mismatch: muscular	malignant hyperthermia susceptibility; central core disease (AD/AR)	associated disorders are muscular; no matching features in the proband
+ATR	not prioritized	phenotype mismatch: oncological	Seckel syndrome (AR); familial cutaneous telangiectasia and cancer syndrome (AD)	dominant association is a cancer predisposition; Seckel syndrome is recessive
+(cancer-predisposition gene, not named)	not prioritized	phenotype mismatch: oncological	cancer predisposition syndrome (AD)	dominant association is a cancer predisposition; not related to the phenotype
+ACAN	not prioritized	phenotype mismatch: skeletal	spondyloepiphyseal dysplasia; short stature with advanced bone age (AD)	associated disorders are skeletal; no matching features in the proband
+FAM111A	not prioritized	phenotype mismatch: skeletal	Kenny-Caffey syndrome type 2; gracile bone dysplasia (AD)	associated disorders are skeletal; no matching features in the proband
+GLI3	not prioritized	phenotype mismatch: skeletal	Greig cephalopolysyndactyly; Pallister-Hall syndrome (AD)	associated disorders are limb/craniofacial malformation syndromes; no matching features in the proband
+ATN1	not prioritized	technical: repeat length	dentatorubral-pallidoluysian atrophy (AD, CAG repeat expansion)	two-residue length difference within the polyglutamine tract (not the histidine-rich region implicated in CHEDDA syndrome); exome data cannot size repeats
+HTT	not prioritized	technical: repeat length	Huntington disease (AD, CAG repeat expansion)	one-residue length difference within the polyglutamine tract; exome data cannot size repeats

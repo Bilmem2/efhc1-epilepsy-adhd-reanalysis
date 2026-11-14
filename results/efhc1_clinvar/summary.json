@@ -1,0 +1,90 @@
+{
+  "clinvar_snapshot": "ClinVar GRCh38 VCF, last modified 2 Nov 2026",
+  "mane_cds_length_nt": 1920,
+  "clinvar_records": 489,
+  "by_significance": {
+    "B/LB": 160,
+    "VUS": 280,
+    "Conflicting": 26,
+    "Other/none": 22,
+    "P/LP": 1
+  },
+  "by_significance_and_consequence": {
+    "VUS | missense_variant": 235,
+    "B/LB | non-coding_transcript_variant": 90,
+    "B/LB | intron_variant": 42,
+    "B/LB | missense_variant": 19,
+    "Conflicting | missense_variant": 18,
+    "VUS | nonsense": 16,
+    "VUS | non-coding_transcript_variant": 12,
+    "VUS | frameshift_variant": 10,
+    "Other/none | splice_acceptor_variant": 7,
+    "B/LB | non-coding/other": 6,
+    "Other/none | intron_variant": 6,
+    "Conflicting | non-coding_transcript_variant": 5,
+    "Other/none | missense_variant": 5,
+    "VUS | splice_donor_variant": 2,
+    "B/LB | 5_prime_UTR_variant": 2,
+    "VUS | splice_acceptor_variant": 2,
+    "Other/none | non-coding_transcript_variant": 2,
+    "Other/none | nonsense": 2,
+    "VUS | intron_variant": 2,
+    "Conflicting | intron_variant": 2,
+    "VUS | initiator_codon_variant": 1,
+    "P/LP | frameshift_variant": 1,
+    "Conflicting | nonsense": 1,
+    "B/LB | splice_donor_variant": 1
+  },
+  "P_LP_records": [
+    {
+      "variation_id": "205420",
+      "pos": 52479069,
+      "ref": "AT",
+      "alt": "A",
+      "significance": "Pathogenic",
+      "review": "criteria_provided,_single_submitter",
+      "consequence": "frameshift_variant",
+      "codon": 437,
+      "domain": "DM10-3",
+      "condition": "not_provided",
+      "gnomAD_exome_AF": 6.841110007371753e-07
+    }
+  ],
+  "EF_hand_records": {
+    "VUS | missense_variant": 11,
+    "Conflicting | missense_variant": 2
+  },
+  "missense_by_domain_and_group": {
+    "DM10-1 | B/LB": 4,
+    "DM10-1 | Conflicting": 2,
+    "DM10-1 | Other/none": 1,
+    "DM10-1 | VUS": 28,
+    "DM10-2 | B/LB": 4,
+    "DM10-2 | Conflicting": 4,
+    "DM10-2 | Other/none": 2,
+    "DM10-2 | VUS": 44,
+    "DM10-3 | B/LB": 2,
+    "DM10-3 | Conflicting": 1,
+    "DM10-3 | Other/none": 1,
+    "DM10-3 | VUS": 40,
+    "EF-hand | Conflicting": 2,
+    "EF-hand | VUS": 11,
+    "outside domains | B/LB": 9,
+    "outside domains | Conflicting": 9,
+    "outside domains | Other/none": 1,
+    "outside domains | VUS": 112
+  },
+  "records_with_neurodevelopmental_condition_terms": [],
+  "conditions": {
+    "not_provided": 157,
+    "not_specified": 154,
+    "Absence_seizure": 276,
+    "Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1": 303,
+    "EFHC1-related_disorder": 15,
+    "Juvenile_myoclonic_epilepsy": 19,
+    "Typical_absence_seizure": 25,
+    "Epilepsy,_idiopathic_generalized,_susceptibility_to,_7": 1,
+    "Epilepsy,_juvenile_absence,_susceptibility_to,_1": 5,
+    "Seizure": 1
+  }
+}

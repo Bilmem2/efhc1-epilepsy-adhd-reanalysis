@@ -1,0 +1,8 @@
+gene	protein	variant_id_GRCh38	tgd_release	status	AC	AN	AF	homozygotes	nearest_listed_AN	how_checked	date
+PRKAR1B	p.Arg96Trp	7-680618-G-A	v3.1	not listed					12626	gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+TCF20	p.Asn672del	22-42213289-AGTT-A	v3.1	not listed					12634	gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+KDM5A	p.Ser1013Asn	12-311063-C-T	v3.1	listed	4	12704	0.00031	0		gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+ALG13	p.Gln1010del	X-111757634-TGCA-T	v3.1	not listed					9093	gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+TRIM8	p.Cys168Gly	10-102645119-T-G	v3.1	not listed					12298	gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+ASXL2	p.Pro455Leu	2-25750192-G-A	v3.1	not listed					12662	gene page, All Variants sorted by position (manual, by the author)	2026-11-13
+EFHC1	p.Glu604Asp	6-52490311-A-C	v3.1	listed	55	12598	0.0044	0		variant page (manual, by the author)	2026-11-13

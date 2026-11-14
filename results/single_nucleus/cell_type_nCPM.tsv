@@ -1,0 +1,49 @@
+cell_type	class	EFHC1	CACNA1E	TRPM2	FOXJ1	TH	SLC6A3	GAD2	PVALB
+ependymal cells	ciliated cells	486.0	34.7	1.2	192.9	0.2	0.0	4.9	4.3
+choroid plexus epithelial cells	ciliated cells	317.2	52.6	12.4	36.3	0.4	0.0	4.1	5.4
+noradrenergic	neuronal cells	138.8	206.9	33.4	0.0	309.6	0.0	3.0	1.5
+fibroblasts	mesenchymal cells	97.3	22.7	2.1	0.2	0.4	0.1	4.6	7.5
+medium spiny neurons (msn)	neuronal cells	81.0	1003.9	121.7	0.0	4.5	0.0	436.2	0.3
+astrocytes	glial cells	77.7	11.8	2.0	3.2	0.2	0.1	4.3	6.4
+bergmann glia	glial cells	72.5	312.1	1.0	0.8	0.0	0.0	4.8	17.4
+neurosecretory	neuronal cells	62.9	416.3	30.0	1.6	127.9	0.2	5.6	0.1
+msn-like neurons	neuronal cells	59.4	804.1	46.8	0.0	5.9	0.0	313.9	0.2
+cholinergic	neuronal cells	56.1	824.8	39.2	0.1	2.2	0.4	12.1	1.8
+lower rhombic lip-derived neurons	neuronal cells	50.6	333.7	114.0	0.0	0.1	0.3	1.5	27.7
+spinal peptidergic excitatory neurons	neuronal cells	49.4	828.1	63.0	0.1	0.0	0.1	2.7	34.5
+monoaminergic	neuronal cells	47.7	236.4	25.6	0.0	0.6	0.1	38.3	0.9
+hypothalamic vglut2+ neurons	neuronal cells	46.9	92.8	106.9	0.0	0.2	0.0	1.3	59.6
+tfap2b+ inhibitory	neuronal cells	46.4	11.8	16.9	0.0	0.0	0.0	430.4	411.9
+pericytes	endothelial and mural cells	45.9	6.5	0.8	0.1	3.1	0.0	4.5	7.4
+other inhibitory	neuronal cells	44.8	450.1	42.0	0.2	1.7	0.1	302.2	1.2
+oligodendrocyte progenitor cells	glial cells	44.7	134.8	1.4	0.4	0.2	0.1	4.2	4.6
+pvalb+ excitatory neurons	neuronal cells	44.5	97.9	135.1	0.0	0.3	0.1	35.0	336.7
+brainstem vglut2+ excitatory	neuronal cells	44.2	480.8	77.7	0.2	9.2	0.0	28.1	13.3
+dentate gyrus excitatory	neuronal cells	43.6	1250.2	21.2	0.2	2.7	0.0	1.4	0.1
+thalamic projection neurons	neuronal cells	43.1	375.4	64.9	0.0	0.2	0.0	3.4	244.1
+orexinergic	neuronal cells	43.0	300.9	24.1	1.9	0.6	1.3	90.1	0.0
+subcortical vglut2+ excitatory	neuronal cells	42.8	353.3	55.6	0.5	4.2	0.2	12.8	6.4
+forebrain excitatory	neuronal cells	41.8	865.2	62.2	0.0	1.4	0.0	2.4	0.1
+other excitatory neurons	neuronal cells	41.6	567.1	57.5	0.0	0.7	0.1	3.3	5.8
+oligodendrocytes	glial cells	41.2	38.6	1.7	0.0	0.2	0.1	5.0	6.2
+ca1-3 excitatory	neuronal cells	39.8	1123.7	52.5	0.0	3.2	0.0	1.5	0.2
+forebrain projection neurons	neuronal cells	39.1	767.5	78.0	0.0	0.4	0.0	2.6	0.2
+mge derived interneuron	neuronal cells	39.1	208.8	63.1	0.1	1.6	0.0	495.9	13.9
+lamp5+ glycinergic inhibitory	neuronal cells	39.0	428.7	63.8	0.2	0.6	0.3	245.9	13.5
+other neuron	neuronal cells	38.8	733.2	38.1	0.3	0.7	0.3	42.8	0.7
+cerebellar purkinje cells	neuronal cells	38.1	11.9	100.2	0.0	0.0	0.0	272.0	553.5
+midbrain derived inhibitory neurons	neuronal cells	37.5	280.8	35.9	0.3	0.1	0.0	705.4	9.7
+midbrain–hindbrain inhibitory neurons	neuronal cells	37.1	213.3	69.5	0.0	0.2	0.0	351.0	66.2
+vascular smooth muscle cells	endothelial and mural cells	35.4	11.5	5.6	0.5	0.5	0.0	6.1	14.0
+ca4 excitatory	neuronal cells	34.4	901.6	65.3	0.3	2.2	0.0	1.1	0.2
+microglia	glial cells	33.4	7.4	239.4	0.0	0.2	0.5	5.6	7.5
+vglut3 neuron	neuronal cells	33.2	243.6	60.8	0.1	0.9	0.0	54.4	1.4
+dopaminergic	neuronal cells	33.1	337.7	67.0	0.0	303.4	216.7	100.3	4.3
+upper rhombic lip-derived neurons	neuronal cells	32.1	56.4	40.6	0.1	0.1	0.0	4.2	7.9
+vascular endothelial cells	endothelial and mural cells	31.7	34.3	2.6	0.3	0.8	0.4	4.7	8.0
+cge derived interneurons	neuronal cells	28.9	318.3	42.1	0.1	0.2	0.1	558.4	14.4
+macrophages & monocytes	blood and immune cells	28.9	7.4	321.6	0.4	0.5	0.1	4.2	6.8
+schwann cells	glial cells	26.5	0.0	0.0	0.0	0.0	0.0	0.0	17.7
+cerebellar granular cells	neuronal cells	26.1	42.1	33.2	0.0	0.0	0.0	2.1	7.8
+serotonergic	neuronal cells	25.3	204.8	43.8	0.0	2.7	0.1	99.2	0.6
+lymphocytes	blood and immune cells	13.0	6.2	17.9	0.9	0.4	0.4	5.3	7.2

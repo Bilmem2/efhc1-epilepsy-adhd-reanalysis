@@ -1,0 +1,99 @@
+{
+  "uniprot_accession": "Q5JVL4",
+  "protein_length": 640,
+  "substitution": "E604D",
+  "alphafold_model": "AF-Q5JVL4-F1-model_v6.pdb",
+  "uniprot_features_containing_residue": [
+    {
+      "type": "Domain",
+      "start": 574,
+      "end": 609,
+      "description": "EF-hand"
+    }
+  ],
+  "sequence_context": "VDRDMFFKICESLNVPVDDSL",
+  "plddt": 82.06,
+  "relative_solvent_accessibility": 0.62,
+  "alphamissense": {
+    "score": 0.074,
+    "class": "LBen"
+  },
+  "alphamissense_all_substitutions_at_position": {
+    "E604A": {
+      "score": 0.0926,
+      "class": "LBen"
+    },
+    "E604C": {
+      "score": 0.3755,
+      "class": "Amb"
+    },
+    "E604D": {
+      "score": 0.074,
+      "class": "LBen"
+    },
+    "E604F": {
+      "score": 0.3842,
+      "class": "Amb"
+    },
+    "E604G": {
+      "score": 0.0693,
+      "class": "LBen"
+    },
+    "E604H": {
+      "score": 0.1624,
+      "class": "LBen"
+    },
+    "E604I": {
+      "score": 0.2106,
+      "class": "LBen"
+    },
+    "E604K": {
+      "score": 0.0709,
+      "class": "LBen"
+    },
+    "E604L": {
+      "score": 0.2077,
+      "class": "LBen"
+    },
+    "E604M": {
+      "score": 0.2731,
+      "class": "LBen"
+    },
+    "E604N": {
+      "score": 0.107,
+      "class": "LBen"
+    },
+    "E604P": {
+      "score": 0.5222,
+      "class": "Amb"
+    },
+    "E604Q": {
+      "score": 0.083,
+      "class": "LBen"
+    },
+    "E604R": {
+      "score": 0.1017,
+      "class": "LBen"
+    },
+    "E604S": {
+      "score": 0.0946,
+      "class": "LBen"
+    },
+    "E604T": {
+      "score": 0.1148,
+      "class": "LBen"
+    },
+    "E604V": {
+      "score": 0.1369,
+      "class": "LBen"
+    },
+    "E604W": {
+      "score": 0.4936,
+      "class": "Amb"
+    },
+    "E604Y": {
+      "score": 0.2268,
+      "class": "LBen"
+    }
+  }
+}

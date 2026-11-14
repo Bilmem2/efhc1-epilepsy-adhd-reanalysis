@@ -1,0 +1,18 @@
+{
+  "input_rows": 68380,
+  "protein_altering_or_splice": 10672,
+  "not_benign_in_ClinVar": 7395,
+  "after_QC": 7238,
+  "model_A_dominant_het_AF_le_0.001": 228,
+  "model_A_with_gnomAD4_missing": 68,
+  "model_B_recessive_candidates_AF_le_0.01": 72,
+  "model_B_genes": 43,
+  "model_A_disease_gene": 69,
+  "model_A_disease_gene_neuro_terms": 44,
+  "model_A_neuro_and_inheritance_fits": 20,
+  "model_A_no_disease_gene": 159,
+  "model_B_disease_gene": 13,
+  "model_B_disease_gene_neuro_terms": 6,
+  "model_B_neuro_and_inheritance_fits": 6,
+  "model_B_no_disease_gene": 59
+}

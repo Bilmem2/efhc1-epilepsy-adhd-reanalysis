@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Locally converted fonts (not redistributable)
+fonts_local/
+
+# Downloaded Human Protein Atlas files (large; see download_hpa_single_nuclei.py)
+data/hpa_v26/
+
+# Individual-level genetic data must never be committed
+private/
+*.vcf
+*.vcf.gz
+*.bam
+*.cram
+*export_variant*.tsv
+model_A_dominant.tsv
+model_B_recessive.tsv
+proband_*
+manual_decisions_private.tsv
+!data/public/clinvar_EFHC1_records.vcf

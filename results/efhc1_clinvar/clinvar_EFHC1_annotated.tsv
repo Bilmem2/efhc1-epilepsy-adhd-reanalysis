@@ -1,0 +1,490 @@
+variation_id	pos	ref	alt	significance	group	review	consequence	codon	domain	condition	gnomAD_exome_AC_AN	gnomAD_exome_AF
+2656640	52413132	G	T	Benign	B/LB	criteria_provided,_single_submitter				not_provided		
+1266006	52419923	G	C	Benign	B/LB	criteria_provided,_single_submitter				not_provided	43115/201008	0.2144940048456192
+1321733	52420101	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter				not_provided	274/387084	0.0007078570197336376
+357475	52420216	A	G	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts				not_provided	16065/606566	0.026485199108719826
+357477	52420262	TGC	T	Benign	B/LB	criteria_provided,_single_submitter				not_provided	27957/873884	0.03199170157313347
+1321776	52420332	G	T	Likely_benign	B/LB	criteria_provided,_single_submitter				not_provided	424/1430072	0.00029648898635059595
+380360	52420398	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_specified	8/1461890	5.472370048664743e-06
+1013951	52420411	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	initiator_codon_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	150/1461892	0.0001026070021907799
+4892349	52420415	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	2	outside domains	not_provided		
+4892350	52420420	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	4	outside domains	not_provided		
+3274679	52420423	C	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	5	outside domains	not_specified	7/1461890	4.7883199840725865e-06
+3843657	52420424	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	5	outside domains	not_specified	1/1461892	6.84045005527878e-07
+447311	52420425	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	6/1461888	4.1042799239221495e-06
+937097	52420426	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	6	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	15/1461894	1.0260700037179049e-05
+205411	52420429	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	7	outside domains	not_provided	5/1461892	3.4202300867036683e-06
+1325574	52420431	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	7	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	11/1461894	7.524489774368703e-06
+648818	52420431	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	7	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+205418	52420432	G	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	8	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided|not_specified	66/1461894	4.514689862844534e-05
+128967	52420435	T	C	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|EFHC1-related_disorder|not_provided|Juvenile_myoclonic_epilepsy	378/1461894	0.000258568994468078
+842365	52420438	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	10	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4892351	52420443	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	11	outside domains	not_provided		
+3087544	52420447	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	13	outside domains	not_specified	4/1461892	2.736180022111512e-06
+465667	52420450	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	14	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205380	52420453	A	G	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	15	outside domains	not_specified	15/1461894	1.0260700037179049e-05
+645721	52420464	G	T	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	18	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	9/1461888	6.1564201132569e-06
+662783	52420469	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	20	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	38/1461884	2.5993900635512546e-05
+205419	52420475	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	splice_donor_variant			not_provided		
+4782670	52420485	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	44/1461878	3.0098299248493277e-05
+1261420	52420596	G	C	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	231765/1032552	0.2244579941034317
+4329365	52423509	G	T		Other/none		intron_variant					
+4329366	52423514	G	T		Other/none		intron_variant					
+1250673	52423657	AT	A	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	17348/167254	0.1037219986319542
+4329367	52423685	A	G		Other/none		splice_acceptor_variant				406/74036	0.005483820103108883
+4329368	52423685	A	T		Other/none		splice_acceptor_variant				14990/72174	0.20769299566745758
+4329369	52423686	G	T		Other/none		splice_acceptor_variant				24867/103534	0.24018199741840363
+1297269	52423788	G	C	Benign	B/LB	criteria_provided,_single_submitter	5_prime_UTR_variant			not_provided	163417/1378592	0.118538998067379
+4892352	52423803	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	5_prime_UTR_variant			not_specified	474/1382580	0.0003428370109759271
+137193	52423941	T	C	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	1267/1461822	0.0008667269721627235
+4329370	52423943	C	G		Other/none		intron_variant					
+4329371	52423945	G	T		Other/none		splice_acceptor_variant					
+1034556	52423948	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	36/1461876	2.4625900550745428e-05
+205394	52423950	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	23	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	54/1461778	3.6941299185855314e-05
+1099788	52423951	A	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	2/1461876	1.368110019939195e-06
+2246890	52423955	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	25	outside domains	not_specified		
+859506	52423958	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	26	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	11/1461882	7.52454980101902e-06
+1319722	52423959	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	26	outside domains	not_provided	3/1461880	2.0521499664027942e-06
+2333561	52423965	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	28	outside domains	not_specified		
+205395	52423966	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	28	outside domains	not_provided	1/1461888	6.840469950475381e-07
+205396	52423971	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	30	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	154/1461874	0.00010534399916650727
+128971	52423972	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided|not_specified	950/1461872	0.0006498519796878099
+205397	52423979	T	C	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	33	outside domains	not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	615/1461886	0.0004206890007480979
+4016542	52423980	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	33	outside domains	not_specified	5/1461886	3.420240091145388e-06
+3274681	52423986	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	35	outside domains	not_specified		
+1137266	52423987	C	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	48/1461884	3.2834301237016916e-05
+836132	52423992	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	37	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4247082	52424001	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	40	outside domains	not_specified		
+3087540	52424003	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	41	outside domains	not_specified		
+2310438	52424004	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	41	outside domains	not_specified	52/1461890	3.5570399631978944e-05
+1053349	52424006	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	42	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	46/1461888	3.14661992888432e-05
+411575	52424007	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	42	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1461890	4.1042799239221495e-06
+937010	52424007	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	42	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	26/1461890	1.7785199815989472e-05
+1014159	52424016	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	45	outside domains	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461894	6.840439823463385e-07
+928565	52424021	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	47	outside domains	not_specified		
+585843	52424022	T	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	47	outside domains	not_specified|not_provided	30/1461894	2.0521300029940903e-05
+357478	52424026	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	11/1461890	7.524509783252142e-06
+655656	52424027	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	49	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	2/1461892	1.368090011055756e-06
+205398	52424033	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	51	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided|Juvenile_myoclonic_epilepsy	142/1461890	9.713449981063604e-05
+2207098	52424034	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	51	outside domains	not_specified	8/1461890	5.472370048664743e-06
+833553	52424042	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	54	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	12/1461888	8.208559847844299e-06
+580362	52424047	C	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	55	outside domains	Juvenile_myoclonic_epilepsy|Absence_seizure|not_provided	9/1461894	6.156400104373461e-06
+3507002	52424066	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	62	outside domains	not_specified	12/1461894	8.20852983451914e-06
+534106	52424069	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	63	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461892	2.736180022111512e-06
+958394	52424076	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	65	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	13/1461892	8.892589903553016e-06
+4663288	52424078	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	66	outside domains	not_specified		
+641875	52424081	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	67	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	12/1461892	8.20853983896086e-06
+3843656	52424084	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	68	outside domains	not_specified		
+1014418	52424088	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	69	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	10/1461890	6.840460173407337e-06
+137194	52424092	A	G	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	557/1461890	0.000381013989681378
+942183	52424108	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	76	outside domains	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461884	2.736200030994951e-06
+1017689	52424109	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	76	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205400	52424111	C	A	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	77	outside domains	EFHC1-related_disorder|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	1008/1461872	0.0006895270198583603
+1492544	52424119	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	79	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+579355	52424123	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	81	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+840601	52424130	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	83	outside domains	not_specified|not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	17/1461814	1.1629400432866532e-05
+698752	52424131	G	A	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	38/1461804	2.5995299438363872e-05
+1045462	52424145	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	88	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	36/1461706	2.462880001985468e-05
+205421	52424148	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	89	outside domains	not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	57/1461702	3.899560033460148e-05
+4277877	52424154	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	91	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461638	6.841639788035536e-07
+1061003	52424159	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	93	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure		
+1292345	52438124	T	A	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided		
+1280585	52438250	G	T	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	47275/1398306	0.03380880132317543
+4892353	52438289	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified	2/1457106	1.3725799590247334e-06
+1052761	52438303	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	splice_acceptor_variant			Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	5/1459824	3.425069962759153e-06
+1083769	52438306	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	9/1460156	6.16372017248068e-06
+665527	52438308	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	97	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1460368	4.108550001546973e-06
+658244	52438323	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	102	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	5/1461108	3.4220599900436355e-06
+4247078	52438343	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	109	DM10-1	not_specified	37/1461402	2.5318200641777366e-05
+1145015	52438351	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	82/1461480	5.6107499403879046e-05
+854892	52438354	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1123194	52438357	A	G	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	11/1461558	7.526220088038826e-06
+1025272	52438359	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	114	DM10-1	not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	63/1461554	4.3104799260618165e-05
+205381	52438362	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	115	DM10-1	not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	21/1461574	1.436809998267563e-05
+854714	52438368	T	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	117	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	36/1461610	2.46304007305298e-05
+1053974	52438370	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	118	DM10-1	not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	19/1461574	1.2999699720239732e-05
+953266	52438379	AACATTT	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+1008815	52438389	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	124	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	20/1461690	1.3682800272363238e-05
+1095575	52438396	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461714	6.841279969194147e-07
+534107	52438397	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	127	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4247085	52438406	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	130	DM10-1	not_specified		
+1019163	52438406	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	130	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided		
+4247083	52438409	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	131	DM10-1	not_specified		
+218751	52438445	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	143	DM10-1	not_specified	6/1461782	4.1045800571737345e-06
+702655	52438469	C	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	151	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided	109/1461768	7.456720049958676e-05
+2471238	52438470	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	151	DM10-1	not_specified	17/1461764	1.162979970104061e-05
+863597	52438470	G	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	151	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	16/1461764	1.0945699614239857e-05
+846571	52438475	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	153	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	138/1461730	9.440870053367689e-05
+1062675	52438476	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	153	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	11/1461762	7.52516007196391e-06
+196484	52438493	C	G	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	159	DM10-1	EFHC1-related_disorder|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	1489/1461750	0.0010186400031670928
+128968	52438493	C	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	159	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided|Juvenile_myoclonic_epilepsy	166554/1461644	0.11394999921321869
+957280	52438494	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	159	DM10-1	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	29/1461746	1.9839300875901245e-05
+534108	52438502	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	162	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided	35/1461764	2.3943699488881975e-05
+1035975	52438508	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	164	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+2689001	52438516	AG	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	166	DM10-1	not_provided		
+1105812	52438522	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	9/1461796	6.156809831736609e-06
+2068	52438538	A	G	risk_factor	Other/none	no_assertion_criteria_provided	missense_variant	174	DM10-1	Absence_seizure	9/1461782	6.156869858386926e-06
+567847	52438544	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	176	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461758	1.3682199551112717e-06
+1153847	52438546	T	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+850846	52438548	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	177	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	18/1461738	1.2314099876675755e-05
+402820	52438562	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	182	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	41/1461722	2.804910036502406e-05
+2063	52438563	G	A	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	182	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|Juvenile_myoclonic_epilepsy|not_provided	88055/1461652	0.06024349853396416
+1118330	52438564	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	63/1461716	4.310000076657161e-05
+205378	52438565	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	183	DM10-1	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	10/1461710	6.841300091764424e-06
+1412625	52438568	G	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	184	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	147/1461726	0.00010056600149255246
+580308	52438573	CTG	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	185	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461710	1.3682599728781497e-06
+357480	52438577	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	187	DM10-1	not_specified|Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	69/1461682	4.720590004581027e-05
+286058	52438582	A	G	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided	14/1461704	9.57785960054025e-06
+1037327	52438587	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	190	DM10-1	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461680	2.0524300907709403e-06
+1057456	52438596	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	50/1461636	3.420819848543033e-05
+128969	52438601	A	G	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided|not_specified|Juvenile_myoclonic_epilepsy	303681/1461028	0.2078540027141571
+4892354	52438602	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified		
+4329372	52438736	T	A		Other/none		intron_variant					
+4329373	52438770	C	G		Other/none		intron_variant					
+205382	52452688	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	192	DM10-1	not_specified|not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	151/1461758	0.0001033000007737428
+1709704	52452697	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	195	DM10-1	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+958422	52452709	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	199	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1461852	4.1043799683393445e-06
+2206040	52452712	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	200	outside domains	not_specified	5/1461860	3.4202998904220294e-06
+646256	52452712	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	200	outside domains	Juvenile_myoclonic_epilepsy|Absence_seizure		
+2206041	52452713	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	200	outside domains	not_specified	5/1461858	3.4202998904220294e-06
+934811	52452716	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	201	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1089159	52452732	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	15/1461864	1.0260900126013439e-05
+382349	52452741	T	C	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified	175/1461872	0.00011970999912591651
+2065	52452742	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	210	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	17/1461874	1.1628900210780557e-05
+95886	52452743	A	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	210	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|EFHC1-related_disorder|not_provided	566/1461870	0.0003871750086545944
+659026	52452751	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	213	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	1/1461866	6.840569994892576e-07
+567935	52452751	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	213	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461866	6.840569994892576e-07
+1092248	52452753	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461860	2.0521799797279527e-06
+660478	52452760	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	216	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	16/1461866	1.0944900168396998e-05
+210911	52452761	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	216	outside domains	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	30/1461858	2.0521800252026878e-05
+3761726	52452766	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	218	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461866	6.840569994892576e-07
+4892355	52452768	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_specified		
+4016543	52452769	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	219	outside domains	not_specified		
+205383	52452775	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	221	outside domains	EFHC1-related_disorder|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	1096/1461860	0.0007497299811802804
+205384	52452776	G	A	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	221	outside domains	EFHC1-related_disorder|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	1046/1461856	0.0007155290222726762
+969853	52452776	G	GT	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	221	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461856	2.0521899841696722e-06
+534109	52452780	GTATGTCAC	AAG	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+804785	52452782	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	223	outside domains	not_provided|not_specified		
+2165062	52452786	C	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1039609	52452788	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	225	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	49/1461856	3.351900159032084e-05
+411574	52452791	CATCAGACTTTG	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	frameshift_variant	226	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	72/1461856	4.925249959342182e-05
+416772	52452792	A	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205385	52452794	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	227	outside domains	not_provided	3/1461712	2.0523900730040623e-06
+702150	52452795	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	13/1461714	8.893670383258723e-06
+3507003	52452796	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	228	outside domains	not_specified	2/1461712	1.3682599728781497e-06
+2064	52452799	T	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	229	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided|not_specified	4947/1461708	0.003384399926289916
+641921	52452807	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	231	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461856	2.7362500532035483e-06
+3843653	52452808	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	232	outside domains	not_specified	15/1461854	1.0260900126013439e-05
+933473	52452816	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461854	2.0521899841696722e-06
+656050	52452824	C	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	237	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1461838	6.840700166321767e-07
+1063222	52452837	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	5/1461798	3.420449957047822e-06
+840745	52452847	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+830042	52452855	C	CG	association	Other/none	no_assertion_criteria_provided	non-coding_transcript_variant			Juvenile_myoclonic_epilepsy		
+1169203	52452899	CA	C	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	890/1458806	0.0006100879982113838
+1164130	52452943	C	T	Benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	4126/1448188	0.0028490799013525248
+4892356	52453622	CA	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_specified	193613/767782	0.25217199325561523
+205387	52454081	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	68/1460310	4.65654993604403e-05
+1018090	52454101	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	nonsense	244	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	19/1461044	1.3004399988858495e-05
+205388	52454102	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	244	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided|Epilepsy,_idiopathic_generalized,_susceptibility_to,_7	223/1461060	0.00015262899978552014
+3274683	52454104	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	245	DM10-2	not_specified		
+837595	52454113	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	248	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Epilepsy,_juvenile_absence,_susceptibility_to,_1|Absence_seizure	23/1461488	1.5737399735371582e-05
+577571	52454120	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	250	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461620	1.3683400084119057e-06
+993789	52454125	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	252	DM10-2	not_specified|not_provided	15/1461676	1.0262199793942273e-05
+1042685	52454126	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	252	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	6/1461654	4.104940217075637e-06
+1035636	52454128	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	253	DM10-2	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	5/1461688	3.4207000680908095e-06
+2066	52454128	G	T	risk_factor	Other/none	no_assertion_criteria_provided	missense_variant	253	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461688	2.7365599635231774e-06
+1026208	52454132	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	254	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	11/1461744	7.525260116381105e-06
+998499	52454133	C	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461768	6.84102985815116e-07
+3087545	52454140	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	257	DM10-2	not_specified		
+2069	52454147	G	A	risk_factor	Other/none	no_assertion_criteria_provided	missense_variant	259	DM10-2	Absence_seizure		
+1052926	52454149	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	260	DM10-2	not_provided|not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	21/1461800	1.4365899914992042e-05
+205389	52454150	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	260	DM10-2	EFHC1-related_disorder|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	642/1461848	0.0004391699912957847
+3507007	52454153	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	261	DM10-2	not_specified	8/1461860	5.472480097523658e-06
+1126249	52454160	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461866	6.840569994892576e-07
+570748	52454168	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	266	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461882	6.840500077487377e-07
+357482	52454171	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	267	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|EFHC1-related_disorder	3/1461874	2.0521599708445137e-06
+205390	52454181	T	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	270	DM10-2	not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	50/1461888	3.4202301321784034e-05
+1011210	52454186	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	272	DM10-2	not_specified|Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	12/1461870	8.208659892261494e-06
+1099492	52454187	G	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205391	52454188	G	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	273	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|Juvenile_myoclonic_epilepsy|not_provided	229/1461882	0.00015664700185880065
+1155184	52454190	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	2/1461880	1.3681000154974754e-06
+205392	52454197	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	276	DM10-2	not_provided		
+210912	52454197	C	T	no_classifications_from_unflagged_records	Other/none	no_classifications_from_unflagged_records	nonsense	276	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461876	2.7362100354366703e-06
+999352	52454198	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	276	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	17/1461852	1.1629100299614947e-05
+3274682	52454207	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	279	DM10-2	not_specified		
+833658	52454209	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	280	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	13/1461860	8.892779987945687e-06
+1116850	52454211	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	2/1461876	1.368110019939195e-06
+834596	52454212	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	281	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	25/1461862	1.7101499906857498e-05
+846071	52454218	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	283	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4884469	52454221	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	284	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Epilepsy,_juvenile_absence,_susceptibility_to,_1	1/1461866	6.840569994892576e-07
+664750	52454225	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	285	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	3/1461806	2.0522600152617088e-06
+804786	52454244	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	18/1461864	1.2313000297581311e-05
+576175	52454250	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	293	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+572744	52454251	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	294	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Juvenile_myoclonic_epilepsy	62/1461862	4.2411698814248666e-05
+128970	52454252	G	A	Benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	294	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided|Juvenile_myoclonic_epilepsy	15941/1461842	0.010904699563980103
+2070	52454254	C	T	risk_factor	Other/none	no_assertion_criteria_provided	nonsense	295	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1009248	52454257	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	296	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	25/1461840	1.7101699995691888e-05
+137192	52454258	G	A	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	296	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	415/1461850	0.0002838869986589998
+581750	52454267	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	299	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	58/1461836	3.967609882238321e-05
+205393	52454282	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	304	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|Juvenile_myoclonic_epilepsy|not_provided	26/1461786	1.7786500393413007e-05
+1084085	52454283	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	7/1461768	4.788720161741367e-06
+411572	52454286	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+197833	52454287	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	306	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided	14/1461758	9.57751035457477e-06
+4329374	52454292	G	C		Other/none		intron_variant					
+1247528	52454453	C	T	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided		
+1182374	52464712	G	A	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided		
+1277778	52464777	G	T	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	87529/673730	0.1299169957637787
+1321475	52464823	G	A	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			not_provided	742/1183598	0.0006269019795581698
+2503802	52464879	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	intron_variant			not_specified	4/1451258	2.7562300601857714e-06
+1093217	52464888	A	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1457412	2.058440031760256e-06
+757901	52464888	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1457412	6.861479846520524e-07
+2004501	52464889	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1459726	1.370120003230113e-06
+4329375	52464894	G	A		Other/none		splice_acceptor_variant					
+3041427	52464894	G	C	Uncertain_significance	VUS	no_assertion_criteria_provided	splice_acceptor_variant			EFHC1-related_disorder		
+205399	52464900	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	308	DM10-2	not_provided		
+4016544	52464912	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	312	DM10-2	not_specified		
+383453	52464921	A	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	315	DM10-2	Absence_seizure|not_provided		
+839615	52464924	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	316	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461834	2.0522199974948307e-06
+966157	52464930	C	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	318	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461820	2.0522400063782698e-06
+1120325	52464939	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	6/1461854	4.1043799683393445e-06
+4247081	52464945	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	323	DM10-2	not_specified	1/1461854	6.840630248916568e-07
+3843650	52464955	C	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	326	DM10-2	not_specified	5/1461844	3.4203399081889074e-06
+447310	52464981	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	335	DM10-2	not_specified	1/1461826	6.840759851911571e-07
+1060501	52464982	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	335	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	3/1461852	2.0521899841696722e-06
+4892358	52464987	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	337	DM10-2	not_provided	4/1461852	2.736260057645268e-06
+942531	52464994	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	339	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	27/1461852	1.8469700080459006e-05
+1152678	52464995	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461856	2.0521899841696722e-06
+3087539	52464999	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	341	DM10-2	not_specified		
+3507008	52465000	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	341	DM10-2	not_specified		
+465662	52465025	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	7/1461860	4.7884200284897815e-06
+839103	52465032	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	352	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	26/1461840	1.7785800082492642e-05
+1004112	52465033	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	352	DM10-2	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	4/1461838	2.736280066528707e-06
+205401	52465035	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	353	DM10-2	Seizure|not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	319/1461838	0.0002182180032832548
+205402	52465036	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	353	DM10-2	EFHC1-related_disorder|not_provided|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	69/1461834	4.7200999688357115e-05
+534113	52465037	G	A	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_provided	6/1461830	4.1044399949896615e-06
+1482232	52465039	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	354	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+137195	52465047	G	A	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	357	DM10-2	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	220/1461812	0.00015049800276756287
+3843654	52465051	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	358	DM10-2	not_specified		
+2273612	52465059	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	361	outside domains	not_specified	6/1461824	4.1044600038731005e-06
+4892359	52465063	CT	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	362	outside domains	not_provided		
+1006991	52465066	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	363	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	39/1461800	2.6679399525164627e-05
+1006195	52465067	T	TTTGGTATTACCTGATTTGGTAATTTGGTAATTACTGATTTGGTAATTTGGAA	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	363	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461796	6.840900255156157e-07
+4247084	52465068	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	364	outside domains	not_specified		
+841142	52465074	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	366	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	8/1461752	5.472879820445087e-06
+4663287	52465075	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	366	outside domains	not_specified	5/1461726	3.420610028115334e-06
+1482836	52465075	GT	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	frameshift_variant	366	outside domains	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	17/1461726	1.1630099834292196e-05
+1159384	52465082	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1461706	4.104790150449844e-06
+1044823	52465088	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	4/1461590	2.736750047915848e-06
+205403	52465092	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	372	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|EFHC1-related_disorder|Epilepsy,_juvenile_absence,_susceptibility_to,_1|Juvenile_myoclonic_epilepsy|not_specified|not_provided	749/1461514	0.0005124820163473487
+1014745	52465093	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	372	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	16/1461514	1.094759954867186e-05
+1035287	52465095	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	373	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+3507006	52465101	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	375	outside domains	not_specified	18/1461352	1.2317400432948489e-05
+4892360	52465130	C	A	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified	10/1456952	6.8636400101240724e-06
+1321685	52465146	G	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			not_provided	884/1439836	0.0006139589822851121
+1225349	52469039	AC	A	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	8394/266288	0.031522300094366074
+1103900	52469323	G	A	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure|not_specified	21/1461586	1.4367999938258436e-05
+1111877	52469327	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1461610	4.10505981562892e-06
+1139525	52469329	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	1/1461628	6.841689810244134e-07
+4329376	52469332	G	T		Other/none		splice_acceptor_variant					
+205405	52469339	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	382	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	65/1461678	4.446940147317946e-05
+534110	52469342	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	383	outside domains	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	51/1461696	3.489099981379695e-05
+863918	52469346	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	384	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	27/1461702	1.8471599105396308e-05
+4329377	52469350	C	A		Other/none		missense_variant	385	outside domains		4/1461678	2.7365799724066164e-06
+128960	52469350	C	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	331/1461680	0.000226452000788413
+666108	52469364	TG	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	390	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	8/1461722	5.472999873745721e-06
+205406	52469367	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	391	outside domains	not_provided	5/1461726	3.420610028115334e-06
+4881247	52469372	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	393	outside domains	not_provided		
+574025	52469375	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	394	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+286732	52469376	CT	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	frameshift_variant	394	outside domains	not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205407	52469382	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	396	outside domains	not_provided	7/1461736	4.788830210600281e-06
+357483	52469389	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	149/1461746	0.00010193300113314763
+3843655	52469393	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	400	outside domains	not_specified		
+4536777	52469396	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	401	outside domains	not_specified	3/1461746	2.0523400507954648e-06
+411571	52469409	C	CA	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	405	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	4/1461736	2.736469923547702e-06
+939704	52469418	A	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	408	outside domains	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	223/1461742	0.00015255800099112093
+128961	52469419	C	T	Benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	1490/1461734	0.0010193400084972382
+1366141	52469420	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	409	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	12/1461722	8.209500265365932e-06
+1001394	52469423	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	410	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1059553	52469456	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	421	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	26/1461568	1.7789099729270674e-05
+593638	52469457	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	421	DM10-3	not_provided|not_specified	4/1461572	2.7367800612410065e-06
+357485	52469460	A	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	422	DM10-3	not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	79/1461576	5.405120100476779e-05
+855080	52469465	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	424	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461544	6.842079756097519e-07
+205408	52469465	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	424	DM10-3	not_provided		
+661434	52469469	T	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	425	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	3/1461500	2.052689978881972e-06
+1160071	52469483	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Typical_absence_seizure	2/1461156	1.3687799764738884e-06
+381138	52469488	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified		
+1293879	52469573	T	C	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	290801/1394018	0.20860600471496582
+1321788	52478980	G	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			not_provided	863/1392822	0.0006196050089783967
+534111	52479028	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	9/1460276	6.163219950394705e-06
+1090187	52479029	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	29/1460458	1.9856799553963356e-05
+1082125	52479033	G	C	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	126/1460688	8.626069757156074e-05
+284178	52479038	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	427	DM10-3	not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	102/1461080	6.981140177231282e-05
+848884	52479044	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	429	DM10-3	Juvenile_myoclonic_epilepsy|Typical_absence_seizure	1/1461292	6.843259825473069e-07
+954888	52479045	C	CA	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	frameshift_variant	429	DM10-3	not_provided|Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	5/1461332	3.421539986447897e-06
+534112	52479051	A	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1026185	52479058	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	434	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461656	1.3683099950867472e-06
+198888	52479064	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	436	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	160/1461650	0.00010946499969577417
+4533280	52479065	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	436	DM10-3	Epilepsy,_juvenile_absence,_susceptibility_to,_1|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	13/1461646	8.89407965587452e-06
+998730	52479067	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	437	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	3/1461738	2.0523500552371843e-06
+836944	52479067	A	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	437	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461738	2.0523500552371843e-06
+943500	52479068	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	437	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	16/1461740	1.0945899703074247e-05
+205420	52479069	AT	A	Pathogenic	P/LP	criteria_provided,_single_submitter	frameshift_variant	437	DM10-3	not_provided	1/1461752	6.841110007371753e-07
+2483433	52479076	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	440	DM10-3	not_specified	9/1461802	6.156779818411451e-06
+864717	52479091	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	445	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	115/1461830	7.866849773563445e-05
+1092999	52479093	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	6/1461844	4.104409981664503e-06
+641895	52479095	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	446	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461838	1.3681400332643534e-06
+377825	52479096	C	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	113/1461826	7.730060315225273e-05
+3507009	52479097	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	447	DM10-3	not_specified	5/1461818	3.4203999348392244e-06
+128962	52479101	T	C	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	448	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	49496/1461816	0.03385930135846138
+4329378	52479101	T	G		Other/none		missense_variant	448	DM10-3			
+4247077	52479110	T	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	451	DM10-3	not_specified	1/1461846	6.840670039309771e-07
+855757	52479113	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	452	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461850	2.0521899841696722e-06
+860506	52479121	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	455	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4247079	52479122	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	455	DM10-3	not_specified	2/1461850	1.368130028822634e-06
+830045	52479123	T	C	Uncertain_significance	VUS	no_assertion_criteria_provided	non-coding_transcript_variant			Juvenile_myoclonic_epilepsy	1/1461850	6.84065014411317e-07
+411569	52479127	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	457	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	54/1461842	3.6939698475180194e-05
+1051912	52479128	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	457	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	24/1461848	1.6417599908891134e-05
+205404	52479128	G	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	457	DM10-3	not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	189/1461848	0.00012928800424560905
+1046256	52479131	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	458	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	5/1461856	3.420309894863749e-06
+128963	52479143	T	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	462	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Juvenile_myoclonic_epilepsy|not_specified|not_provided	149/1461838	0.00010192600166192278
+737561	52479147	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461842	2.0522099930531112e-06
+1426877	52479149	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	464	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+578529	52479154	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	466	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	13/1461854	8.892820005712565e-06
+3891408	52479163	A	AGGACTAAAGTTGTTAAACCATACTCT	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	469	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Epilepsy,_juvenile_absence,_susceptibility_to,_1	20/1461848	1.3681299606105313e-05
+850535	52479167	C	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	470	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	36/1461850	2.4626300728414208e-05
+205409	52479201	C	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	481	DM10-3	not_provided	1/1461814	6.840820105935563e-07
+850536	52479201	C	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	481	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	35/1461814	2.3942899133544415e-05
+1678303	52479202	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	482	DM10-3	not_provided		
+1115525	52479207	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	111/1461834	7.593200280098245e-05
+205410	52479209	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	484	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	65/1461838	4.44645993411541e-05
+205412	52479212	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	485	DM10-3	not_provided	27/1461810	1.8470300346962176e-05
+967629	52479217	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	487	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	99/1461824	6.772360211471096e-05
+4990992	52479221	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	488	DM10-3	EFHC1-related_disorder	1/1461822	6.840779747108172e-07
+3843658	52479232	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	492	DM10-3	not_specified	3/1461778	2.0523000330285868e-06
+465663	52479251	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	splice_donor_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	84/1461656	5.746910028392449e-05
+1227482	52479424	CTT	C	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided		
+1321778	52479606	C	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	intron_variant			not_provided	1211/1461760	0.0008284529903903604
+1113462	52479641	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	2/1461876	1.368110019939195e-06
+698385	52479670	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	508	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	150/1461884	0.0001026070021907799
+1140237	52479674	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	35/1461882	2.394170041952748e-05
+1108176	52479683	T	G	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	16/1461884	1.0944800123979803e-05
+946011	52479693	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	516	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	3/1461888	2.0521399619610747e-06
+205413	52479694	T	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	516	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	49/1461888	3.351829946041107e-05
+644582	52479695	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	516	DM10-3	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461886	6.840480182290776e-07
+1011274	52479696	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	517	DM10-3	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+534105	52479696	GAGAGCAACGC	TTTTGAAATACA	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	517	DM10-3	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205379	52479704	C	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	97/1461886	6.635260069742799e-05
+1055116	52479705	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	520	DM10-3	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1461888	6.840469950475381e-07
+1659557	52479707	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	5/1461888	3.4202300867036683e-06
+572605	52479709	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	521	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	2/1461884	1.3681000154974754e-06
+1156626	52479710	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1461882	6.840500077487377e-07
+1042217	52479712	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	522	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	3/1461886	2.0521399619610747e-06
+4016545	52479720	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	525	outside domains	not_specified		
+1055947	52479721	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	525	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+377826	52479731	C	T	Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	112/1461878	7.66137964092195e-05
+4663289	52479732	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	529	outside domains	not_specified	6/1461876	4.1043199416890275e-06
+411570	52479733	C	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	529	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	5/1461872	3.4202701044705464e-06
+137196	52479734	G	A	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	227/1461874	0.00015527999494224787
+4892362	52479741	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	532	outside domains	not_provided	3/1461876	2.0521599708445137e-06
+1131744	52479749	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	18/1461878	1.2312900253164116e-05
+654115	52479753	C	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	536	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	19/1461862	1.2997100384382065e-05
+659694	52479753	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	536	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	18/1461860	1.2313100341998506e-05
+838176	52479754	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	536	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	16/1461854	1.0945000212814193e-05
+571113	52479754	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	536	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+205414	52479759	C	T	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	nonsense	538	outside domains	not_provided|Juvenile_myoclonic_epilepsy	81/1461856	5.540900019695982e-05
+4892363	52479760	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	538	outside domains	not_specified	191/1461846	0.0001306570047745481
+1009758	52479765	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	540	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+718186	52479767	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	26/1461818	1.7786100215744227e-05
+966859	52479769	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	missense_variant	541	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	12/1461836	8.208859981095884e-06
+4881154	52479769	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	541	outside domains	not_provided		
+3274685	52479772	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	542	outside domains	not_specified	27/1461814	1.847020030254498e-05
+1135617	52479773	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1158336	52479776	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	5/1461792	3.4204599614895415e-06
+3087541	52479780	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	545	outside domains	not_specified	46/1461760	3.146889866911806e-05
+862136	52479786	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	547	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	51/1461728	3.489019945845939e-05
+1051205	52479790	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+1033463	52479806	G	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	1/1461114	6.844089739388437e-07
+1244361	52479864	A	C	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	48586/1430588	0.033962298184633255
+4892364	52490128	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified	10/1460726	6.84590986566036e-06
+772329	52490132	C	A	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	8/1461012	5.475660145748407e-06
+534104	52490134	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4329379	52490139	G	T		Other/none		splice_acceptor_variant					
+648955	52490162	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	555	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+534103	52490164	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	56/1461678	3.831210051430389e-05
+1046112	52490165	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	556	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	37/1461726	2.5312499928986654e-05
+833745	52490166	T	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	556	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified	1/1461740	6.841160029580351e-07
+193726	52490174	T	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	non-coding_transcript_variant			EFHC1-related_disorder|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified|not_provided	406/1461752	0.00027774900081567466
+1045296	52490198	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	nonsense	567	outside domains	Typical_absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+3087542	52490238	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	580	EF-hand	not_specified	16/1461776	1.0945599569822662e-05
+411573	52490238	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	580	EF-hand	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	3/1461776	2.0523000330285868e-06
+793255	52490245	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+1157997	52490257	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+4851682	52490258	G	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	587	EF-hand	not_provided		
+432882	52490262	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	588	EF-hand	not_provided		
+205415	52490264	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	589	EF-hand	not_provided	34/1461824	2.3258600776898675e-05
+752979	52490266	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure		
+580955	52490267	G	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	590	EF-hand	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	91/1461824	6.225099787116051e-05
+647359	52490275	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	6/1461812	4.104490017198259e-06
+3274680	52490279	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	594	EF-hand	not_specified	4/1461820	2.736320084295585e-06
+958990	52490285	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	596	EF-hand	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1461834	6.840720061518368e-07
+3843651	52490304	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	602	EF-hand	not_specified	7/1461822	4.7885400817904156e-06
+2256703	52490307	G	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	603	EF-hand	not_specified	4/1461824	2.7363100798538653e-06
+128964	52490311	A	C	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	604	EF-hand	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	1111/1461810	0.0007600170210935175
+1041097	52490313	C	T	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	605	EF-hand	not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	26/1461802	1.7786300304578617e-05
+465664	52490314	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	15/1461794	1.0261400348099414e-05
+287376	52490319	A	G	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	607	EF-hand	EFHC1-related_disorder|not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	210/1461816	0.00014365700189955533
+784780	52490320	C	T	Benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	57/1461810	3.8992799090920016e-05
+1099442	52490326	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4892366	52490330	G	GTTAATCGCTTAACCAAGTC	Uncertain_significance	VUS	criteria_provided,_single_submitter	frameshift_variant	611	outside domains	not_provided	8/1461766	5.472829798236489e-06
+1443304	52490333	G	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	612	outside domains	not_provided|Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	8/1461736	5.472939847095404e-06
+853670	52490334	A	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	612	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	3/1461750	2.0523300463537453e-06
+720625	52490335	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	14/1461720	9.577759556123056e-06
+411576	52490338	CTTGGTTAAGGAGGTCAGTATGAAT	C	Likely_benign	B/LB	criteria_provided,_single_submitter	splice_donor_variant			Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	98/1461686	6.704589759465307e-05
+833619	52490358	T	A	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4892367	52490369	T	A	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_specified	10/1450108	6.896039849380031e-06
+1291077	52490408	T	C	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	909880/1321828	0.6883500218391418
+1251412	52490576	A	G	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	24997/454254	0.05502869933843613
+1268851	52490629	C	T	Benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	6438/429056	0.015004999935626984
+1326408	52492222	G	T	Likely_benign	B/LB	criteria_provided,_single_submitter	intron_variant			not_provided	919/1394804	0.0006588739925064147
+128965	52492264	C	G	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	intron_variant			not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	80/1461432	5.474080171552487e-05
+128966	52492273	A	C	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	619	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided|Juvenile_myoclonic_epilepsy	122982/1460886	0.08418320119380951
+205416	52492274	T	G	Conflicting_classifications_of_pathogenicity	Conflicting	criteria_provided,_conflicting_classifications	missense_variant	619	outside domains	EFHC1-related_disorder|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_provided	102/1461634	6.978490273468196e-05
+2274255	52492279	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	621	outside domains	not_specified		
+1057466	52492281	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	621	outside domains	not_specified|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	1/1461656	6.841560207249131e-07
+465665	52492284	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+4892368	52492285	T	C	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	623	outside domains	not_provided	5/1461690	3.4207000680908095e-06
+2304714	52492289	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	624	outside domains	not_specified	6/1461698	4.104820163775003e-06
+1047743	52492297	G	A	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	627	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	6/1461698	4.104820163775003e-06
+952242	52492304	T	C	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	629	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure|not_specified	140/1461714	9.577799937687814e-05
+1010536	52492304	T	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	629	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1		
+465666	52492306	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	630	outside domains	Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|Absence_seizure	14/1461708	9.577839591656812e-06
+205417	52492310	A	G	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	631	outside domains	Juvenile_myoclonic_epilepsy|Absence_seizure|not_provided	30/1461704	2.0523999410215765e-05
+137197	52492311	C	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1|not_specified|not_provided	1115/1461682	0.0007628200110048056
+357486	52492313	A	G	Uncertain_significance	VUS	criteria_provided,_single_submitter	missense_variant	632	outside domains	Absence_seizure|Myoclonic_epilepsy,_juvenile,_susceptibility_to,_1	9/1461712	6.157159987196792e-06
+205422	52492325	G	A	Uncertain_significance	VUS	criteria_provided,_multiple_submitters,_no_conflicts	missense_variant	636	outside domains	not_specified|not_provided	47/1461596	3.2156600354937837e-05
+585842	52492366	A	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	48/1448822	3.313039997010492e-05
+357489	52492462	C	A	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	807921/908758	0.8890389800071716
+357490	52492481	C	T	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	627/695048	0.0009020959842018783
+357493	52492733	A	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	6183/289982	0.02132200077176094
+357497	52493212	C	G	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_provided	41098/301772	0.13618899881839752
+357498	52493222	A	T	Benign/Likely_benign	B/LB	criteria_provided,_multiple_submitters,_no_conflicts	non-coding_transcript_variant			not_provided	270954/301780	0.8978530168533325
+357499	52493237	C	T	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	1417/301782	0.004695440176874399
+1262209	52493364	A	C	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	738/130778	0.005643149837851524
+357502	52493365	C	CATATAT	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	556/80078	0.006943230051547289
+2656641	52493365	C	CATATATATATATAT	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	97/80218	0.0012092000106349587
+2656642	52493365	C	CATATATATATATATAT	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	197/80182	0.002456909976899624
+357504	52493365	C	CATATATATATATATATAT	Uncertain_significance	VUS	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	546/80106	0.006815969944000244
+2656643	52493365	C	CATATATATATATATATATATATATATAT	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	31/80248	0.00038630201015621424
+357507	52493365	C	T		Other/none		non-coding_transcript_variant				779/80146	0.009719760157167912
+1222265	52493366	A	C	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	728/27174	0.026790300384163857
+1265636	52493368	A	C	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	415/46804	0.008866759948432446
+1183748	52493385	T	TA	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	1154/78166	0.014763499610126019
+1282886	52493386	T	TATATATATATATA	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	102/50082	0.0020366599783301353
+357512	52493521	G	A	Benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	228105/255992	0.8910629749298096
+357515	52493831	C	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	69321/301796	0.22969500720500946
+357521	52494505	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	6044/301796	0.0200267992913723
+357523	52494760	A	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	57534/300532	0.19144099950790405
+357526	52495313	C	G	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	71486/301794	0.23687000572681427
+357527	52495485	T	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	198012/301798	0.656108021736145
+357528	52495533	G	A	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	23895/301796	0.07917600125074387
+357529	52495747	T	C	Likely_benign	B/LB	criteria_provided,_single_submitter	non-coding_transcript_variant			not_provided	89672/221240	0.40531501173973083
