@@ -1,0 +1,16 @@
+group	age	cells	EFHC1_per_million	EFHC1_pct_cells	CACNA1E_per_million	CACNA1E_pct_cells	FOXJ1_per_million	FOXJ1_pct_cells
+thalamus, all neurons	all ages	30222	73.7	33.9	111.9	32.9	0.8	0.5
+thalamus, all neurons	5-8 weeks	18287	73.8	39.6	119.3	37.7	0.9	0.7
+thalamus, all neurons	9-15 weeks	11935	73.2	25.2	88.3	25.4	0.6	0.2
+thalamus, GAD2+ neurons	all ages	12853	66.8	33.1	104.3	32.8	0.7	0.6
+thalamus, GAD2+ neurons	5-8 weeks	9558	70.7	38.8	110.0	36.5	0.7	0.6
+thalamus, GAD2+ neurons	9-15 weeks	3295	44.1	16.4	71.6	21.9	0.8	0.4
+midbrain, TH+ neurons	all ages	4518	61.3	31.0	68.3	24.0	1.6	1.1
+midbrain, TH+ neurons	5-8 weeks	2983	54.2	27.9	52.9	20.0	1.9	1.2
+midbrain, TH+ neurons	9-15 weeks	1535	73.4	37.0	94.4	31.6	1.2	0.8
+midbrain, other neurons	all ages	68127	59.7	26.8	81.0	24.4	1.4	0.8
+midbrain, other neurons	5-8 weeks	30105	50.2	24.0	54.2	18.2	1.8	1.2
+midbrain, other neurons	9-15 weeks	38022	67.6	29.0	103.3	29.3	1.0	0.6
+cortex, all neurons	all ages	37756	31.0	17.7	451.8	79.0	0.4	0.2
+cortex, all neurons	5-8 weeks	1373	66.4	45.6	210.2	51.1	1.6	0.8
+cortex, all neurons	9-15 weeks	36383	28.8	16.6	466.5	80.1	0.3	0.2

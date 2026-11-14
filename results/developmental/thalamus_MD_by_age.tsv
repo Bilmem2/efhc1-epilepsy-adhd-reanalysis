@@ -1,0 +1,25 @@
+donor	age	period	genes_detected	EFHC1_RPKM	CACNA1E_RPKM	FOXJ1_RPKM	EFHC1_percentile	CACNA1E_percentile
+H376.IIIA.51	13 pcw	prenatal	15095	1.44	10.85	3.64	8.6	65.8
+H376.IIIB.50	16 pcw	prenatal	16980	2.92	7.07	1.26	28.0	56.2
+H376.IIIB.51	16 pcw	prenatal	15583	2.1	14.09	5.01	19.8	75.6
+H376.IIIB.52	16 pcw	prenatal	15258	2.02	4.29	0.39	17.2	38.7
+H376.IIIB.53	17 pcw	prenatal	16372	3.36	5.03	14.67	32.5	45.5
+H376.IV.53	19 pcw	prenatal	15954	1.87	4.54	1.35	17.1	45.0
+H376.IV.50	24 pcw	prenatal	15597	1.77	3.8	1.6	14.1	35.6
+H376.V.53	37 pcw	prenatal	16828	2.36	0.56	1.15	23.4	0.0
+H376.VI.50	4 mos	infancy (0-1 y)	15946	1.53	4.91	0.75	11.1	44.9
+H376.VI.52	4 mos	infancy (0-1 y)	15380	1.18	5.87	0.32	4.2	49.7
+H376.VII.51	10 mos	infancy (0-1 y)	14907	1.53	3.18	1.03	11.7	32.6
+H376.VIII.51	1 yrs	infancy (0-1 y)	16223	2.04	8.2	2.95	18.7	61.5
+H376.VIII.53	2 yrs	childhood (2-11 y)	13529	0.93	0.14	3.14	0.0	0.0
+H376.VIII.52	3 yrs	childhood (2-11 y)	15631	1.09	1.69	1.11	2.4	15.2
+H376.VIII.50	4 yrs	childhood (2-11 y)	15902	1.53	2.41	0.52	10.9	23.8
+H376.IX.51	8 yrs	childhood (2-11 y)	16105	1.84	2.65	0.49	16.1	26.9
+H376.X.51	13 yrs	adolescence (12-19 y)	16202	1.38	1.24	3.92	8.9	6.1
+H376.X.52	19 yrs	adolescence (12-19 y)	16326	2.81	4.9	5.5	29.1	45.7
+H376.XI.60	21 yrs	adulthood (20-40 y)	15762	1.46	1.62	0.32	9.9	12.7
+H376.XI.50	23 yrs	adulthood (20-40 y)	16189	1.58	0.65	1.29	12.3	0.0
+H376.XI.52	30 yrs	adulthood (20-40 y)	15576	2.03	3.79	1.36	19.8	37.9
+H376.XI.53	36 yrs	adulthood (20-40 y)	16103	1.91	2.76	1.65	17.5	28.2
+H376.XI.54	37 yrs	adulthood (20-40 y)	16140	2.12	6.02	1.83	20.3	52.2
+H376.XI.56	40 yrs	adulthood (20-40 y)	16138	1.8	1.42	1.08	17.1	9.9

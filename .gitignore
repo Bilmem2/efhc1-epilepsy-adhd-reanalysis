@@ -11,6 +11,9 @@ data/hpa_v26/
 # Downloaded TR-Variome table (2 GB; see README.md)
 data/turkish_variome/
 
+# Downloaded BrainSpan archive (62 MB; see README.md)
+data/brainspan/
+
 # Individual-level genetic data must never be committed
 private/
 *.vcf

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-# Reruns every step that uses only public data (steps 3-7 in README.md;
-# step 7 only if the TR-Variome table has been downloaded, see README.md).
+# Reruns every step that uses only public data (steps 3-8 in README.md;
+# step 7 only if the TR-Variome table has been downloaded, and the single-cell
+# part of step 8 only if cellxgene-census is installed, see README.md).
 # Steps 1 and 2 need the proband's exome data, which is not shared.
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -41,4 +42,17 @@ if [ -f "$VARIOME" ]; then
   "$PYTHON" scripts/turkish_variome_lookup.py "$VARIOME" results/population/tgd_candidate_check.tsv results/population/trvariome_candidate_check.tsv
 else
   echo "skipped: $VARIOME not found (download command in README.md)"
+fi
+
+echo "== 8. Developmental expression"
+BRAINSPAN=data/brainspan/genes_matrix_csv.zip
+if [ ! -f "$BRAINSPAN" ]; then
+  mkdir -p data/brainspan
+  curl -sSL -o "$BRAINSPAN" https://www.brainspan.org/api/v2/well_known_file_download/267666525
+fi
+"$PYTHON" scripts/brainspan_thalamus_by_age.py "$BRAINSPAN" results/developmental > /dev/null
+if "$PYTHON" -c "import cellxgene_census" 2>/dev/null; then
+  "$PYTHON" scripts/fetal_brain_single_cell.py results/developmental > /dev/null
+else
+  echo "skipped single-cell part: cellxgene-census is not installed (see README.md)"
 fi

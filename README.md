@@ -8,7 +8,7 @@ The repository documents the analysis: the variant prioritization rules, the num
 
 ## What is and is not included
 
-**Included:** the analysis scripts; the prioritization rules (in `scripts/filter_opencravat_export.py`); the counts after each step; the manual review decisions; the six retained candidates; the frequency checks in two Turkish population databases (TR-Variome and TGD); the public input subsets; the protein, ClinVar and single-nucleus results; the figures.
+**Included:** the analysis scripts; the prioritization rules (in `scripts/filter_opencravat_export.py`); the counts after each step; the manual review decisions; the six retained candidates; the frequency checks in two Turkish population databases (TR-Variome and TGD); the public input subsets; the protein, ClinVar, single-nucleus and developmental expression results; the figures.
 
 **Not included:** the proband's exome VCF and the full OpenCRAVAT annotation table. An exome is identifying genetic information even without names, and the written consent covers publication of anonymized findings, not distribution of the genome. The case-specific steps (1 and 2 below) therefore cannot be rerun from this repository; all steps based on public data can. One gene set aside in the manual review is a cancer-predisposition gene unrelated to the research question; it is not named in the public decision table.
 
@@ -20,7 +20,7 @@ Python 3.10 or later.
 pip install -r requirements.txt
 ```
 
-Biopython is needed only for the solvent accessibility in step 4. Without the manuscript's typeface (garamondx, converted for matplotlib by `scripts/convert_garamondx_ttf.py`) the figures are drawn in a default serif font; their content is the same.
+Biopython is needed only for the solvent accessibility in step 4. The single-cell part of step 8 also needs `pip install cellxgene-census`, which is not in `requirements.txt` because it is large and used only there. Without the manuscript's typeface (garamondx, converted for matplotlib by `scripts/convert_garamondx_ttf.py`) the figures are drawn in a default serif font; their content is the same.
 
 ## Workflow
 
@@ -33,6 +33,7 @@ Biopython is needed only for the solvent accessibility in step 4. Without the ma
 | 5. Single-nucleus expression | `download_hpa_single_nuclei.py`, `hpa_single_nuclei_coexpression.py` | Human Protein Atlas v26 | `results/single_nucleus/` | Figure 3, Results |
 | 6. Figures | `plot_prioritization_funnel.py`, `plot_efhc1_protein.py`, `plot_single_nuclei_coexpression.py` | results of steps 1, 4, 5 | `results/figures/` | Figures 1–3 |
 | 7. Turkish population frequencies | `turkish_variome_lookup.py` (TR-Variome); manual lookup in the TGD portal, which has no download interface | TR-Variome table (figshare); TGD portal | `results/population/` | Table 2, Results |
+| 8. Developmental expression | `brainspan_thalamus_by_age.py`, `fetal_brain_single_cell.py` | BrainSpan RNA-seq; first-trimester brain atlas (Braun *et al.*, 2023) via the CELLxGENE Census | `results/developmental/` | Results |
 
 ## Reproducing the public steps
 
@@ -40,7 +41,7 @@ Biopython is needed only for the solvent accessibility in step 4. Without the ma
 bash run_public_steps.sh
 ```
 
-The script runs steps 3–7 in order and overwrites the files in `results/`. It needs an internet connection: step 4 queries AlphaFold DB, and step 5 downloads about 140 MB from the Human Protein Atlas and checks the files against the SHA-256 sums of the copies used for the manuscript.
+The script runs steps 3–8 in order and overwrites the files in `results/`. It needs an internet connection: step 4 queries AlphaFold DB; step 5 downloads about 140 MB from the Human Protein Atlas and checks the files against the SHA-256 sums of the copies used for the manuscript; step 8 downloads the 62 MB BrainSpan archive (SHA-256 of the copy used: `c0e7293bcffde300272b56643ac17706268f4d4617eb5975f3fe8e2dd38b3b66`) and, if `cellxgene-census` is installed, reads the single-cell data from the public Census (about two minutes).
 
 Step 7 runs only if the TR-Variome table (2 GB) is present, because the script does not download it:
 
@@ -74,7 +75,9 @@ The OpenCRAVAT (3.2.3) export is the unfiltered variant table with the gnomAD v4
 | UniProt, AlphaFold DB, AlphaMissense | records retrieved in November 2026 (copies in `results/protein_context/inputs/`) |
 | Turkish Variome (TR-Variome) | Kars *et al.*, 2021 (3,362 individuals); figshare dataset 15147642, file `TurkishVariome.tsv.gz` |
 | Turkish Genome Project database (TGD) | release 3.1, checked 13 November 2026 |
+| BrainSpan developmental transcriptome | RNA-seq, Gencode v10, summarized to genes (RPKM); mediodorsal thalamus, 24 samples from 13 weeks after conception to 40 years |
+| First-trimester human brain atlas | Braun *et al.*, 2023; CELLxGENE dataset `13149914-ea03-4f01-8bf6-b793b667127b`, Census release 2025-11-08 |
 
 ## Licence
 
-The code is released under the MIT licence (`LICENSE`). Public data subsets and records retrieved from ClinVar, gnomAD, UniProt, AlphaFold DB, the Human Protein Atlas and TR-Variome remain subject to the terms of their sources.
+The code is released under the MIT licence (`LICENSE`). Public data subsets and records retrieved from ClinVar, gnomAD, UniProt, AlphaFold DB, the Human Protein Atlas, TR-Variome, BrainSpan and CELLxGENE remain subject to the terms of their sources.

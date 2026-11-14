@@ -1,0 +1,47 @@
+{
+  "source": "BrainSpan developmental transcriptome, RNA-seq Gencode v10 (RPKM)",
+  "structure": "mediodorsal nucleus of thalamus (MD)",
+  "detection_threshold_RPKM": 1.0,
+  "periods": {
+    "prenatal": {
+      "samples": 8,
+      "median_EFHC1_RPKM": 2.06,
+      "median_CACNA1E_RPKM": 4.79,
+      "median_FOXJ1_RPKM": 1.48,
+      "median_EFHC1_percentile": 18.5,
+      "median_CACNA1E_percentile": 45.25
+    },
+    "infancy (0-1 y)": {
+      "samples": 4,
+      "median_EFHC1_RPKM": 1.53,
+      "median_CACNA1E_RPKM": 5.39,
+      "median_FOXJ1_RPKM": 0.89,
+      "median_EFHC1_percentile": 11.4,
+      "median_CACNA1E_percentile": 47.3
+    },
+    "childhood (2-11 y)": {
+      "samples": 4,
+      "median_EFHC1_RPKM": 1.31,
+      "median_CACNA1E_RPKM": 2.05,
+      "median_FOXJ1_RPKM": 0.82,
+      "median_EFHC1_percentile": 6.65,
+      "median_CACNA1E_percentile": 19.5
+    },
+    "adolescence (12-19 y)": {
+      "samples": 2,
+      "median_EFHC1_RPKM": 2.09,
+      "median_CACNA1E_RPKM": 3.07,
+      "median_FOXJ1_RPKM": 4.71,
+      "median_EFHC1_percentile": 19.0,
+      "median_CACNA1E_percentile": 25.9
+    },
+    "adulthood (20-40 y)": {
+      "samples": 6,
+      "median_EFHC1_RPKM": 1.85,
+      "median_CACNA1E_RPKM": 2.19,
+      "median_FOXJ1_RPKM": 1.33,
+      "median_EFHC1_percentile": 17.3,
+      "median_CACNA1E_percentile": 20.45
+    }
+  }
+}

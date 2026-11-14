@@ -1,0 +1,15 @@
+{
+  "source": "Braun et al. 2023, first-trimester developing human brain (CELLxGENE)",
+  "dataset_id": "13149914-ea03-4f01-8bf6-b793b667127b",
+  "census_version": "2025-11-08",
+  "cell_type": "neuron",
+  "tissues": [
+    "dorsal plus ventral thalamus",
+    "midbrain",
+    "cortex"
+  ],
+  "markers": {
+    "GABAergic": "GAD2 > 0",
+    "dopaminergic (approximate)": "TH > 0"
+  }
+}
