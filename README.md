@@ -31,9 +31,9 @@ Biopython is needed only for the solvent accessibility in step 4. The single-cel
 | 3. *EFHC1* in ClinVar | `efhc1_variant_landscape.py` | `data/public/` | `results/efhc1_clinvar/` | Results |
 | 4. Protein context | `protein_variant_context.py` | UniProt, AlphaFold DB, AlphaMissense | `results/protein_context/` | Results, Discussion |
 | 5. Single-nucleus expression | `download_hpa_single_nuclei.py`, `hpa_single_nuclei_coexpression.py` | Human Protein Atlas v26 | `results/single_nucleus/` | Figure 3, Results |
-| 6. Figures | `plot_prioritization_funnel.py`, `plot_efhc1_protein.py`, `plot_single_nuclei_coexpression.py` | results of steps 1, 4, 5 | `results/figures/` | Figures 1–3 |
+| 6. Figures | `plot_prioritization_funnel.py`, `plot_efhc1_protein.py`, `plot_single_nuclei_coexpression.py` | results of steps 1, 4, 5 and 8 | `results/figures/` | Figures 1–3 |
 | 7. Turkish population frequencies | `turkish_variome_lookup.py` (TR-Variome); manual lookup in the TGD portal, which has no download interface | TR-Variome table (figshare); TGD portal | `results/population/` | Table 2, Results |
-| 8. Developmental expression | `brainspan_thalamus_by_age.py`, `fetal_brain_single_cell.py` | BrainSpan RNA-seq; first-trimester brain atlas (Braun *et al.*, 2023) via the CELLxGENE Census | `results/developmental/` | Results |
+| 8. Developmental expression | `brainspan_thalamus_by_age.py`, `fetal_brain_single_cell.py` | BrainSpan RNA-seq; first-trimester brain atlas (Braun *et al.*, 2023) via the CELLxGENE Census | `results/developmental/` | Figure 3b, Results |
 
 ## Reproducing the public steps
 

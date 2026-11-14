@@ -10,7 +10,7 @@ import ajur_figure_style
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FixedLocator, NullFormatter  # noqa: E402
 
-BLUE, BLUE_DARK, ORANGE = "#2a78d6", "#1c5aa6", "#eb6834"
+BLUE, BLUE_DARK = "#2a78d6", "#1c5aa6"
 INK, MUTED, GRID = "#0b0b0b", "#52514e", "#e4e3df"
 MANUAL_FINAL = 6  # candidates remaining after manual review (Table 2)
 
@@ -37,10 +37,8 @@ def main(summary_path, out_prefix):
         ax.barh(y, count, height=0.62, color=color, left=1, zorder=2)
         ax.text((count + 1) * 1.22, y, f"{count:,}", va="center", ha="left", color=INK,
                 fontweight="bold" if i == n - 1 else "normal")
-    freq_y = n - 1 - 4
-    # Short marker only; frequencies and the recessive model are given in the caption.
-    ax.text(steps[4][1] * 4.5, freq_y, r"$\mathit{EFHC1}$ p.Glu604Asp removed at this step",
-            color=ORANGE, ha="left", va="center")
+    # The step at which EFHC1 p.Glu604Asp was removed and the recessive model are
+    # described in the caption.
     ax.set_xscale("log")
     ax.set_xlim(1, 3e5)
     ax.xaxis.set_major_locator(FixedLocator([1, 10, 100, 1000, 10000, 100000]))

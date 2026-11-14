@@ -34,7 +34,7 @@ echo "== 5. Single-nucleus expression"
 echo "== 6. Figures"
 "$PYTHON" scripts/plot_prioritization_funnel.py results/prioritization/funnel_summary.json results/figures/Fig1_prioritization
 "$PYTHON" scripts/plot_efhc1_protein.py results/protein_context/inputs/uniprot_Q5JVL4.json results/figures/Fig2_efhc1_protein
-"$PYTHON" scripts/plot_single_nuclei_coexpression.py results/single_nucleus results/figures/Fig3_single_nuclei_coexpression
+"$PYTHON" scripts/plot_single_nuclei_coexpression.py results/single_nucleus results/figures/Fig3_single_nuclei_coexpression results/developmental
 
 echo "== 7. Turkish population frequencies (TR-Variome)"
 VARIOME=data/turkish_variome/TurkishVariome.tsv.gz
