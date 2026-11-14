@@ -1,0 +1,8 @@
+gene	protein	variant_id_GRCh38	source	status	AC	AN	AF	homozygotes	sequencing
+PRKAR1B	p.Arg96Trp	7-680618-G-A	TR-Variome (Kars et al. 2021), figshare 15147642	not listed					
+TCF20	p.Asn672del	22-42213289-AGTT-A	TR-Variome (Kars et al. 2021), figshare 15147642	not listed					
+KDM5A	p.Ser1013Asn	12-311063-C-T	TR-Variome (Kars et al. 2021), figshare 15147642	listed	2	5162	3.549E-4	0	WES
+ALG13	p.Gln1010del	X-111757634-TGCA-T	TR-Variome (Kars et al. 2021), figshare 15147642	not listed					
+TRIM8	p.Cys168Gly	10-102645119-T-G	TR-Variome (Kars et al. 2021), figshare 15147642	not listed					
+ASXL2	p.Pro455Leu	2-25750192-G-A	TR-Variome (Kars et al. 2021), figshare 15147642	not listed					
+EFHC1	p.Glu604Asp	6-52490311-A-C	TR-Variome (Kars et al. 2021), figshare 15147642	listed	17	6718	0.002530515	0	WES&WGS

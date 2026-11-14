@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Reruns every step that uses only public data (steps 3-6 in README.md).
+# Reruns every step that uses only public data (steps 3-7 in README.md;
+# step 7 only if the TR-Variome table has been downloaded, see README.md).
 # Steps 1 and 2 need the proband's exome data, which is not shared.
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -33,3 +34,11 @@ echo "== 6. Figures"
 "$PYTHON" scripts/plot_prioritization_funnel.py results/prioritization/funnel_summary.json results/figures/Fig1_prioritization
 "$PYTHON" scripts/plot_efhc1_protein.py results/protein_context/inputs/uniprot_Q5JVL4.json results/figures/Fig2_efhc1_protein
 "$PYTHON" scripts/plot_single_nuclei_coexpression.py results/single_nucleus results/figures/Fig3_single_nuclei_coexpression
+
+echo "== 7. Turkish population frequencies (TR-Variome)"
+VARIOME=data/turkish_variome/TurkishVariome.tsv.gz
+if [ -f "$VARIOME" ]; then
+  "$PYTHON" scripts/turkish_variome_lookup.py "$VARIOME" results/population/tgd_candidate_check.tsv results/population/trvariome_candidate_check.tsv
+else
+  echo "skipped: $VARIOME not found (download command in README.md)"
+fi

@@ -8,6 +8,9 @@ fonts_local/
 # Downloaded Human Protein Atlas files (large; see download_hpa_single_nuclei.py)
 data/hpa_v26/
 
+# Downloaded TR-Variome table (2 GB; see README.md)
+data/turkish_variome/
+
 # Individual-level genetic data must never be committed
 private/
 *.vcf
