@@ -8,9 +8,9 @@ The repository documents the analysis: the variant prioritization rules, the num
 
 ## What is and is not included
 
-**Included:** the analysis scripts; the prioritization rules (in `scripts/filter_opencravat_export.py`); the counts after each step; the manual review decisions; the six retained candidates; the frequency checks in two Turkish population databases (TR-Variome and TGD); the public input subsets; the protein, ClinVar, single-nucleus and developmental expression results; the figures.
+**Included:** the analysis scripts; the prioritization rules (in `scripts/filter_opencravat_export.py`); the counts after each step; the manual review decisions; the six retained candidates; the direct check of 12 selected genes; the frequency checks in two Turkish population databases (TR-Variome and TGD); the public input subsets; the protein, ClinVar, single-nucleus and developmental expression results; the figures.
 
-**Not included:** the proband's exome VCF and the full OpenCRAVAT annotation table. An exome is identifying genetic information even without names, and the written consent covers publication of anonymized findings, not distribution of the genome. The case-specific steps (1 and 2 below) therefore cannot be rerun from this repository; all steps based on public data can. One gene set aside in the manual review is a cancer-predisposition gene unrelated to the research question; it is not named in the public decision table.
+**Not included:** the proband's exome VCF and the full OpenCRAVAT annotation table. An exome is identifying genetic information even without names, and the written consent covers publication of anonymized findings, not distribution of the genome. The case-specific steps (1, 2 and 9 below) therefore cannot be rerun from this repository; all steps based on public data can. One gene set aside in the manual review is a cancer-predisposition gene unrelated to the research question; it is not named in the public decision table.
 
 ## Requirements
 
@@ -34,6 +34,7 @@ Biopython is needed only for the solvent accessibility in step 4. The single-cel
 | 6. Figures | `plot_prioritization_funnel.py`, `plot_efhc1_protein.py`, `plot_single_nuclei_coexpression.py` | results of steps 1, 4, 5 and 8 | `results/figures/` | Figures 1–3 |
 | 7. Turkish population frequencies | `turkish_variome_lookup.py` (TR-Variome); manual lookup in the TGD portal, which has no download interface | TR-Variome table (figshare); TGD portal | `results/population/` | Table 2, Results |
 | 8. Developmental expression | `brainspan_thalamus_by_age.py`, `fetal_brain_single_cell.py` | BrainSpan RNA-seq; first-trimester brain atlas (Braun *et al.*, 2023) via the CELLxGENE Census | `results/developmental/` | Figure 3b, Results |
+| 9. Direct check of selected genes | `targeted_gene_check.py` | OpenCRAVAT export (private) | `results/targeted_genes/targeted_gene_check.tsv` (per-gene counts, no genotypes) | Methods, Results |
 
 ## Reproducing the public steps
 
@@ -57,9 +58,12 @@ The copy used for the manuscript has the SHA-256 sum `8067a71c9b589074a7fdbb8280
 ```bash
 python scripts/filter_opencravat_export.py <export_variant.tsv> <private_dir>
 python scripts/record_manual_review.py <private_dir>/model_A_dominant.tsv <decisions.tsv> <private_dir>/manual_review.tsv
+python scripts/targeted_gene_check.py <export_variant.tsv> results/targeted_genes
 ```
 
 The OpenCRAVAT (3.2.3) export is the unfiltered variant table with the gnomAD v4, All of Us, ClinVar, Human Phenotype Ontology, REVEL and CADD annotations. Step 1 writes the counts after each filter to `funnel_summary.json`; its tables `model_A_dominant.tsv` and `model_B_recessive.tsv` contain the individual's genotypes and must not be shared. Step 2 checks that the decision table covers exactly the genes in `model_A_dominant.tsv`, so it needs the private decision table in which all 20 genes are named; the public `results/manual_review/manual_review_decisions.tsv` leaves one gene unnamed and does not pass this check.
+
+Step 9 searches the same export directly for rare protein-altering variants in the three ADHD genes identified by rare-variant analysis (*MAP1A*, *ANO8*, *ANK2*) and in nine genes whose pathogenic variants cause epilepsy with attention or learning problems, because steps 3–5 rely on incomplete gene annotations. It uses the definitions and QC of step 1 with the 1% frequency threshold and, unlike step 1, keeps variants classified as benign in ClinVar. The only rare protein-altering call was *GRIN2A* p.Thr1064Ala (benign or likely benign in ClinVar). The VCF has no calls of any kind in *MAP1A* or *SLC2A1*; from a VCF alone this cannot be told apart from low coverage of these regions.
 
 ## Data sources and versions
 

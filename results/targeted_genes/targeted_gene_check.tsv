@@ -1,0 +1,13 @@
+gene	group	calls_any_consequence	protein_altering_calls	rare_calls_passing_QC	rare_calls
+MAP1A	ADHD rare-variant gene	0	0	0	none
+ANO8	ADHD rare-variant gene	4	0	0	none
+ANK2	ADHD rare-variant gene	11	1	0	none
+SLC6A1	epilepsy with attention or learning problems	1	0	0	none
+SYNGAP1	epilepsy with attention or learning problems	8	0	0	none
+CHD2	epilepsy with attention or learning problems	9	0	0	none
+GRIN2A	epilepsy with attention or learning problems	2	1	1	p.Thr1064Ala (ClinVar: Benign/Likely benign; gnomAD4 0.00037; AoU max 0.001)
+SLC2A1	epilepsy with attention or learning problems	0	0	0	none
+GABRA1	epilepsy with attention or learning problems	1	0	0	none
+GABRG2	epilepsy with attention or learning problems	3	0	0	none
+CACNA1A	epilepsy with attention or learning problems	15	2	0	none
+STX1B	epilepsy with attention or learning problems	3	0	0	none
