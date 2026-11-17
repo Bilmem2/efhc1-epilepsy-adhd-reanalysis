@@ -2,7 +2,7 @@
 
 Analysis code and summary results for the manuscript
 
-> *EFHC1 and Epilepsy–ADHD Comorbidity: A Gene-Level Pleiotropy Hypothesis from a Single-Case Exome Reanalysis* (under review, American Journal of Undergraduate Research).
+> *EFHC1 and Epilepsy–ADHD Comorbidity: A Gene-Level Pleiotropy Hypothesis from a Single-Case Exome Reanalysis*. American Journal of Undergraduate Research, accepted; in press (December 2026 issue).
 
 The repository documents the analysis: the variant prioritization rules, the number of variants left after each step, the reason for each manual decision, and the scripts and public inputs behind the protein, ClinVar and single-nucleus results and the figures.
 
